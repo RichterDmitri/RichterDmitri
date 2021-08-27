@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+### 🔭 I’m currently working on a Ressurection of A mod called The Cappellan Solution
+### 🌱 I’m currently learning C
+### 👯 I’m looking to collaborate on my ressurection of TCS
+### 🤔 I’m looking for help with TCS
+### 📫 How to reach me:
 <!--
 **RichterDmitri/RichterDmitri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
